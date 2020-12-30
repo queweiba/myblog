@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://queweiba.github.io/myblog/sitemap.xml
