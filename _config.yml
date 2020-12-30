@@ -1,35 +1,3 @@
-#######
-#
-# bootstrap-template
-# basic bootstrap template for Jekyll with GitHub Pages
-# https://github.com/thecdil/bootstrap-template
-#
-#######
-
-#######
-# SITE SETTINGS
-#
-title: Queweiba's blog
-description: "Technique site"
-year: 2020
-author: queweiba
-# add search box to navbar, true/false
-search: true
-
-##########
-# URL VARIABLES [optional!]
-#
-# Optional if using GitHub Pages! If building manually, these must be set correctly.
-#
-# use url for the domain, e.g. https://thecdil.github.io
-# on gh-pages follow the pattern: https://username.github.io
-url: https://queweiba.github.io
-# use baseurl to add subsection of the domain, e.g. /timelinejs-template
-# on gh-pages this is a / followed by the name of the repository
-# baseurl is your github repository's name prefixed with a /
-baseurl: /myblog
-# location of code, the full url to your github repository
-source-code: https://github.com/queweiba/myblog.git
 
 ##########
 # GOOGLE ANALYTICS [optional!]
